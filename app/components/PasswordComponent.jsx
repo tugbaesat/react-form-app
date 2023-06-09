@@ -1,11 +1,6 @@
 import React from "react";
 
 const PasswordComponent = ({ register, errors }) => {
-  //   const {
-  //     register,
-  //     formState: { errors },
-  //     handleSubmit,
-  //   } = useForm();
   const validatePassword = (value) => {
     let errorMessage = "";
 
