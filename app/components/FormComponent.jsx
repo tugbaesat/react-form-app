@@ -108,7 +108,7 @@ const FormComponent = () => {
         </div>
       </form>
       {isRegistered && (
-        <div className="p-3 mt-4 text-orange-500 rounded bg-amber-200">
+        <div className="p-3 mt-4 text-orange-500 rounded bg-amber-200 text-center">
           Form successfully registered!
         </div>
       )}
