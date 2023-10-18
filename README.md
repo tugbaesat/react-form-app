@@ -13,7 +13,7 @@ This is a React Hook Form project.
 ## Screenshots: 📷
 
 ### Main Page
-![image](https://github.com/tugbaesat/nextjs-tip-calculator/assets/114342008/6288f13f-f26d-4c97-bf5b-e796c43320b2)
+![image](https://github.com/tugbaesat/react-form-app/assets/114342008/a0e26afb-1dd4-4d31-ae8f-13e42a1c384f)
 
 
 ## Authors: 💻
